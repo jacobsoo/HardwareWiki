@@ -62,6 +62,7 @@ This section contains all the articles and tools related to **D-Link** Hacking.
 
 ### References
 Affected Product: **D-Link DIR-850**
+
 https://pierrekim.github.io/blog/2017-09-21-update-dlink-850l-mydlink-cloud-0days-vulnerabilities.html
 
 https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html
@@ -70,6 +71,7 @@ https://pierrekim.github.io/blog/2017-02-02-update-dlink-dwr-932b-lte-routers-vu
 
 
 Affected Product: **D-Link DIR-823G**
+
 https://github.com/idkwim/D-Link/blob/master/Vul_1.md
 
 https://github.com/idkwim/D-Link/blob/master/Vul_2.md
@@ -82,44 +84,55 @@ https://github.com/idkwim/D-Link/blob/master/Vul_5.md
 
 
 Affected Product: **D-Link DIR-815**
+
 https://github.com/iceMatcha/Some-Vulnerabilities-of-D-link-Dir815/blob/master/Vulnerabilities_Summary.md
 
 
 Affected Product: **D-Link DIR-806**
+
 https://github.com/Kirin-say/Vulnerabilities/blob/master/DIR-806_Code_Injection.md
 
 https://github.com/Kirin-say/Vulnerabilities/blob/master/DIR-806_Stack_Overflow_to_Run_Shellcode.md
 
 
 Affected Product: **D-Link DIR-600**
+
 https://github.com/halencarjunior/dlkploit600
 
 
 Affected Product: **D-Link DIR-300**
+
 https://github.com/Hood3dRob1n/D-Link-Dir-600---Dir-300-RCE-Exploit
 
 
 Affected Product: **D-Link DAP-1860**
+
 https://chung96vn.wordpress.com/2019/11/15/d-link-dap-1860-vulnerabilities/
 
 
 Affected Product: **D-Link DCS-5020L**
+
 https://github.com/fuzzywalls/CVE-2019-10999
 
 
+
 Affected Product: **D-Link DSL-2680**
+
 https://github.com/0x8b30cc/DSL-2680-Multiple-Vulnerabilities
 
 
 Affected Product: **D-Link DSL-3782**
+
 https://c0mix.github.io/2019/D-Link-DIR-3782-SecAdvisory-OS-Command-Injection-and-Stored-XSS/
 
 
 Affected Product: **D-Link-DSR-N250**
+
 https://github.com/neseco/D-Link-DSR-N250-LFI-Vulnerability
 
 
 Affected Product: **D-Link DWR-932**
+
 https://pierrekim.github.io/blog/2016-09-28-dlink-dwr-932b-lte-routers-vulnerabilities.html
 
 
@@ -135,14 +148,17 @@ This section contains all the articles and tools related to **Huawei** Hacking.
 
 ### References
 Affected Product: **Huawei USG-6330**
+
 https://web.archive.org/web/20180515134352/https://embedi.com/blog/first-glance-on-os-vrp-by-huawei/
 
 
 Affected Product: **Huawei HG8012H**
+
 https://github.com/logon84/Hacking_Huawei_HG8012H_ONT
 
 
 Affected Product: **Huawei HG8120C**
+
 https://blog.leexiaolan.tk/pwn-huawei-hg8120c-ont-via-uart-part-1
 
 https://blog.leexiaolan.tk/pwn-huawei-hg8120c-ont-via-maintenance-tool-part-2
@@ -157,16 +173,20 @@ https://blog.leexiaolan.tk/compile-kernel-module-for-hg8120c-without-source-and-
 
 
 Affected Product: **Huawei Wimax**
+
 https://pierrekim.github.io/blog/2015-12-01-Huawei-Wimax-routers-vulnerable-to-multiple-threats.html
 
 
 Affected Product: **Huawei HG8245**
+
 https://websec.ca/publication/Advisories/Huawei-HG8245-and-HG8247-WPA-Generator
 
 Other Products:
+
 https://websec.ca/publication/Advisories/Huawei-web-backdoor-and-remote-access
 
 https://pierrekim.github.io/blog/2015-10-07-Huawei-routers-vulnerable-to-multiple-threats.html
+
 
 ### Tools
 https://github.com/csersoft/HWFW_GUI
@@ -221,19 +241,23 @@ This section contains all the articles and tools related to **TP-Link** Hacking.
 
 ### References
 Affected Product: **TP-Link Archer C2**
+
 https://pierrekim.github.io/blog/2017-02-09-tplink-c2-and-c20i-vulnerable.html
 
 
 Affected Product: **TP-Link Archer C5**
+
 https://github.com/JackDoan/TP-Link-ArcherC5-RCE
 
 
 Affected Product: **TP-Link Archer C7**
+
 https://www.thezdi.com/blog/2020/4/6/exploiting-the-tp-link-archer-c7-at-pwn2own-tokyo
 
 
 Affected Product: **TP-Link WDR5620**
 https://github.com/afang5472/TP-Link-WDR-Router-Command-injection_POC
+
 
 ### Tools
 https://github.com/nablar/kasa-hack
