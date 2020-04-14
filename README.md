@@ -1,15 +1,31 @@
 # HardwareWiki
 A curated list of Hardware Hacking resources
+- [Asus](#asus)
 - [Cisco](#cisco)
 - [D-Link](#d-link)
 - [Huawei](#huawei)
 - [ipTime](#iptime)
+- [Juniper](#juniper)
 - [Quanta](#quanta)
 - [TOTOLINK](#totolink)
 - [TP-Link](#tp-link)
+- [TRENDNet](#trendnet)
 - [Zhone](#zhone)
 - [Zyxel](#zyxel)
 
+
+
+## Asus
+This section contains all the articles and tools related to **Asus** Hacking.
+
+### References
+Affected Product: **Asus SmartHome Gateway(HG100)**
+
+https://github.com/tim124058/ASUS-SmartHome-Exploit
+
+
+### Tools
+https://github.com/TishSerg/AsusRouterTools
 
 
 ## Cisco
@@ -195,6 +211,8 @@ https://github.com/LeeXiaolan/hwfw-tool
 
 https://github.com/embedi/Huawei-firewall-tools
 
+https://github.com/ethicalhackeragnidhra/Router-Sploit/tree/abbf00e501d66a75e2aea9e206867f589c99cf02/routersploit/modules/exploits/routers/huawei
+
 
 
 ## ipTime
@@ -213,6 +231,15 @@ https://pierrekim.github.io/blog/2015-07-06-127-iptime-router-models-unauthentic
 
 https://pierrekim.github.io/blog/2015-07-27-172-iptime-router-models-unauthenticated-RCE-with-DHCP-updated.html
 
+
+
+## Juniper
+This section contains all the articles and tools related to **Juniper** Hacking.
+
+### References
+Affected Product: **Juniper ScreenOS**
+https://blog.rapid7.com/2015/12/20/cve-2015-7755-juniper-screenos-authentication-backdoor/
+https://github.com/ethicalhackeragnidhra/Router-Sploit/blob/abbf00e501d66a75e2aea9e206867f589c99cf02/routersploit/modules/exploits/routers/juniper/screenos_backdoor.py
 
 
 ## Quanta
@@ -254,6 +281,10 @@ Affected Product: **TP-Link Archer C7**
 
 https://www.thezdi.com/blog/2020/4/6/exploiting-the-tp-link-archer-c7-at-pwn2own-tokyo
 
+Affected Product: **TP-Link Archer C50**
+
+https://github.com/thewhiteh4t/cve-2020-9375
+
 
 Affected Product: **TP-Link WDR5620**
 https://github.com/afang5472/TP-Link-WDR-Router-Command-injection_POC
@@ -263,6 +294,18 @@ https://github.com/afang5472/TP-Link-WDR-Router-Command-injection_POC
 https://github.com/nablar/kasa-hack
 
 https://github.com/janisstreib/tp-link-intercept
+
+https://github.com/BL4CKH47H4CK3R/RouterExploit
+
+
+
+## TRENDNet
+This section contains all the articles and tools related to **TRENDNet** Hacking.
+
+### References
+Affected Product: **TRENDNet TEW-827DRU**
+
+https://github.com/fuzzywalls/TRENDNetExploits
 
 
 
